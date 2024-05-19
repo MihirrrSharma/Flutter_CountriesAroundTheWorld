@@ -44858,7 +44858,7 @@ qJ(){var s=0,r=A.P(t.H),q=this,p
 var $async$qJ=A.Q(function(a,b){if(a===1)return A.M(b,r)
 while(true)switch(s){case 0:p=A
 s=2
-return A.S($.EW().ahY("config/config.json"),$async$qJ)
+return A.S($.EW().ahY("assets/config/config.json"),$async$qJ)
 case 2:q.am(new p.af8(q,b))
 s=3
 return A.S(q.nv(),$async$qJ)

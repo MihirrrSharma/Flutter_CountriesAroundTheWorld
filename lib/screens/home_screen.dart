@@ -32,7 +32,8 @@ class _HomePageState extends State<HomePage> {
   }
 
   Future<void> _loadCountries() async {
-    final String data = await rootBundle.loadString('config/config.json');
+    final String data =
+        await rootBundle.loadString('assets/config/config.json');
     setState(() {
       _countries = json.decode(data);
     });
