@@ -1,11 +1,16 @@
-# Countries_Around_The_World
+# countries_of_the_world
 
-User Tasks:
-1) Users can search any country(or capital) in the world.
-2) Users can see weather information and exchange rates(against the USD) for a particular country.
+A new Flutter project.
 
-App Features:
-1) Shows the user's local exchange rate by detecting the browser's location using geolocation coordinates(lat. & long.).
-2) Mobile Responsive.
+## Getting Started
 
-Deployed App Link: - [CountriesAroundTheWorld](https://flutter-countries-around-the-world-um2l.vercel.app/)
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

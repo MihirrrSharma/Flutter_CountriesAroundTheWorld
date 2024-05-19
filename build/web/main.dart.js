@@ -44985,7 +44985,7 @@ r=A.aq9(B.jg)
 q=A.FA(8)
 p=J.aq(l)
 return A.iK(n,new A.Iw(A.cR(p.h(l,"countryName"),n,n,n,B.Pp,n,n),A.cR(A.h(p.h(l,"capital")),n,n,n,B.PM,n,n),new A.afe(m,l),n),B.x,n,new A.eb(n,n,r,q,n,n,B.bf),n,new A.aG(0,s,0,s),n,n)}o=J.azy(m.e,new A.aff(m,k))
-if(b===J.bZ(m.e)-1&&!o)return A.ns(new A.cP(B.Ci,A.vF(A.b([new A.qJ(A.at1(n,n,new A.v9("assets/images/no-records.png",n,n)),100,100,n),B.L7,B.Qs],t.E),B.a1,B.jd,B.ae),n),n,n)
+if(b===J.bZ(m.e)-1&&!o)return A.ns(new A.cP(B.Ci,A.vF(A.b([new A.qJ(A.at1(n,n,new A.v9("assets/Images/no-records.png",n,n)),100,100,n),B.L7,B.Qs],t.E),B.a1,B.jd,B.ae),n),n,n)
 return A.iK(n,n,B.x,n,n,n,n,n,n)},
 $S:355}
 A.afe.prototype={
