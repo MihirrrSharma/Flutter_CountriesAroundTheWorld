@@ -547,7 +547,7 @@ class _HomePageState extends State<HomePage> {
                                             CrossAxisAlignment.center,
                                         children: [
                                           Image.asset(
-                                            'assets/images/no-records.png',
+                                            'assets/Images/no-records.png',
                                             width: 100,
                                             height: 100,
                                           ),
