@@ -8,4 +8,4 @@ App Features:
 1) Shows the user's local exchange rate by detecting the browser's location using geolocation coordinates(lat. & long.).
 2) Mobile Responsive.
 
-Deployed App Link: - [CountriesAroundTheWorld]('https://flutter-countries-around-the-world-um2l.vercel.app/')
+Deployed App Link: - [CountriesAroundTheWorld](https://flutter-countries-around-the-world-um2l.vercel.app/)
